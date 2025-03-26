@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g0g0I/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/3o7aD2sa1g1g0g0g0I/giphy.gif](https://media1.tenor.com/m/IHdlTRsmcS4AAAAC/404.gif" width="30%">
   <h1 style="color: #00FF00;">💻 Welcome to the Hacker's Den</h1>
   <p style="color: #FFFFFF;">Where the code flows like shadows...</p>
 </div>
