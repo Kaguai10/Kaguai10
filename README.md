@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Kaguai10/Kaguai10/banner.png" width="30%">
+  <img src="https://github.com/Kaguai10/Kaguai10/blob/main/banner.png" width="30%">
   <h1 style="color: #00FF00;">💻 Welcome to the Hacker's Den</h1>
   <p style="color: #FFFFFF;">Where the code flows like shadows...</p>
 </div>
