@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <a href="#kaguai">
-        <img src="[https://binary.ninja/icons/android-chrome-512x512.png](https://www.kali.org/tools/john/images/john-logo.svg)" width="48" height="48" alt="John The Ripper" />
+        <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="48" height="48" alt="John The Ripper" />
       </a>
       <br>John The Ripper
     </td>
