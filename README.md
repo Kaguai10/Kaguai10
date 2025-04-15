@@ -37,3 +37,65 @@
 <p align="center" style="color: #00FF00; font-style: italic;">
   "In the realm of code, we are all hackers, rewriting the rules of reality."
 </p>
+
+<h3>Security & Pentesting Tools</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="48" height="48" alt="Burp Suite" />
+      </a>
+      <br>Sonarqube
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=384&q=75" width="48" height="48" alt="Burp Suite" />
+      </a>
+      <br>Burp Suite
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://cdn.brandfetch.io/idha8gcsl6/w/807/h/417/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="SQLMap" />
+      </a>
+      <br>SQLMap
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" width="48" height="48" alt="Wireshark" />
+      </a>
+      <br>Wireshark
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://binary.ninja/icons/android-chrome-512x512.png" width="48" height="48" alt="Ghidra" />
+      </a>
+      <br>Binary Ninja
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://ctftime.org/media/team/IDA.png" width="48" height="48" alt="Ghidra" />
+      </a>
+      <br>IDA
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://ghidra-sre.org/images/GHIDRA_1.png" width="48" height="48" alt="Ghidra" />
+      </a>
+      <br>Ghidra
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://cdn.brandfetch.io/idHnSFcYKj/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Nmap" />
+      </a>
+      <br>Nmap
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://camo.githubusercontent.com/0899d46f6fbc9cbfaa378de3bc94c035e8189a3f6cd791581e2250969d223781/68747470733a2f2f696d6167652e6962622e636f2f637075596f412f7873737472696b652d6c6f676f2e706e67" width="48" height="48" alt="XSStrike" />
+      </a>
+      <br>XSStrike
+    </td>
+</tr>
+</table>
+
+<br>
