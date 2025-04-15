@@ -29,18 +29,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You’re+Happy,+I’m+Happy+Too">
 </div>
 
-<h2 align="center" style="color: #00FF00;">⚡️ Connect with Me</h2>
-<p align="center" style="color: #FFFFFF;">
-  <a href="https://twitter.com/yourusername" target="_blank">Twitter</a> | 
-  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> | 
-  <a href="https://yourwebsite.com" target="_blank">Website</a>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/images/1c1e1c1e1c1e1c1e/tenor.gif" width="100%">
-</p>
-
-
 <h3>Security & Pentesting Tools</h3>
 <table>
    <td align="center" width="96">
@@ -102,4 +90,9 @@
 </tr>
 </table>
 
-<br>
+<h2 align="center" style="color: #00FF00;">⚡️ Connect with Me</h2>
+<p align="center" style="color: #FFFFFF;">
+  <a href="https://twitter.com/yourusername" target="_blank">Twitter</a> | 
+  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> | 
+  <a href="https://yourwebsite.com" target="_blank">Website</a>
+</p>
