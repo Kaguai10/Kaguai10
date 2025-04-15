@@ -4,9 +4,6 @@
   <a href="https://github.com/Kaguai10/faiz-hidayat">
     <img src="https://komarev.com/ghpvc/?username=Kaguai10" alt="page views" />
   </a>
-  <a href="#/">
-    <img alt="Website" src="https://img.shields.io/website?url=#">
-  </a>
   <a href="https://github.com/Kaguai10?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kaguai10?style=flat&logo=github">
   </a>
