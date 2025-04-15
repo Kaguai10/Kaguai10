@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Kaguai10/Kaguai10/blob/main/banner.png" width="30%">
   <p align="center">
-  <a href="https://github.com/Kaguai10/faiz-hidayat">
+  <a href="https://github.com/Kaguai10/Kaguai10">
     <img src="https://komarev.com/ghpvc/?username=Kaguai10" alt="page views" />
   </a>
   <a href="https://github.com/Kaguai10?tab=followers">
