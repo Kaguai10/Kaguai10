@@ -8,7 +8,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kaguai10?style=flat&logo=github">
   </a>
 </p>
-  <h1 style="color: #00FF00;">💻 Welcome to Rif_Kaguai10</h1>
+  <h1 style="color: #00FF00;">💻 Welcome to Rif_Kaguai10 ✨</h1>
   <p style="color: #FFFFFF;">Where the code flows like shadows...</p>
 </div>
 
@@ -17,18 +17,12 @@
 </p>
 
 <h2 align="center" style="color: #00FF00;">🦾 Code is My Weapon</h2>
-<p align="center" style="color: #FFFFFF;">
-  "In a world of light, I choose the dark. Here, I craft my destiny with every line of code."
+<p align="center" style="color: #00FF00; font-style: italic;">
+  "In the realm of code, we are all hackers, rewriting the rules of reality."
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Unleashing+the+Power+of+Code...;Join+the+Rebellion...;Hack+the+Matrix...">
-</div>
-
-<h2 align="center" style="color: #00FF00;">🔍 My Digital Footprint</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=00FF00" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&text_color=00FF00" width="45%">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You’re+Happy,+I’m+Happy+Too">
 </div>
 
 <h2 align="center" style="color: #00FF00;">⚡️ Connect with Me</h2>
@@ -42,9 +36,6 @@
   <img src="https://media.tenor.com/images/1c1e1c1e1c1e1c1e/tenor.gif" width="100%">
 </p>
 
-<p align="center" style="color: #00FF00; font-style: italic;">
-  "In the realm of code, we are all hackers, rewriting the rules of reality."
-</p>
 
 <h3>Security & Pentesting Tools</h3>
 <table>
