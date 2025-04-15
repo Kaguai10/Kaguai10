@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://github.com/Kaguai10/Kaguai10/blob/main/banner.png" width="30%">
+  <img src="https://github.com/Kaguai10/Kaguai10/blob/main/banner.png" width="75%">
   <p align="center">
+  <a href=#> 
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  </a>   
   <a href="https://github.com/Kaguai10/Kaguai10">
     <img src="https://komarev.com/ghpvc/?username=Kaguai10" alt="page views" />
   </a>
