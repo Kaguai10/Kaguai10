@@ -80,12 +80,6 @@
     </td>
     <td align="center" width="96">
       <a href="#kaguai">
-        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="48" height="48" alt="Burp Suite" />
-      </a>
-      <br>Sonarqube
-    </td>
-    <td align="center" width="96">
-      <a href="#kaguai">
         <img src="https://ctftime.org/media/team/IDA.png" width="48" height="48" alt="Ghidra" />
       </a>
       <br>IDA
@@ -95,6 +89,12 @@
         <img src="https://cdn.brandfetch.io/idHnSFcYKj/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Nmap" />
       </a>
       <br>Nmap
+    </td>
+    <td align="center" width="96">
+      <a href="#kaguai">
+        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="48" height="48" alt="Burp Suite" />
+      </a>
+      <br>Sonarqube
     </td>
 </tr>
 </table>
