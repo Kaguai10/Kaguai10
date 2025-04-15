@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=2ba6d0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;Welcome+to+Rif_Kaguai10+%E2%9C%A9" width="75%" />
   <img src="https://github.com/Kaguai10/Kaguai10/blob/main/banner.png" width="75%">
   <p align="center">
   <a href=#> 
@@ -11,7 +12,7 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kaguai10?style=flat&logo=github">
   </a>
 </p>
-  <h1 style="color: #00FF00;">💻 Welcome to Rif_Kaguai10 ✨</h1>
+  <h1 style="color: #00FF00;">👨‍💻 Whoami</h1>
   <p style="color: #FFFFFF;">Where the code flows like shadows...</p>
 </div>
 
