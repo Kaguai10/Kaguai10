@@ -1,14 +1,14 @@
 <div align="center">
   <img src="https://github.com/Kaguai10/Kaguai10/blob/main/banner.png" width="30%">
-  <p align="left">
-  <a href="https://github.com/faiz-hidayat/faiz-hidayat">
-    <img src="https://komarev.com/ghpvc/?username=faiz-hidayat" alt="page views" />
+  <p align="center">
+  <a href="https://github.com/Kaguai10/faiz-hidayat">
+    <img src="https://komarev.com/ghpvc/?username=Kaguai10" alt="page views" />
   </a>
-  <a href="https://portofolio-iz.netlify.app/">
-    <img alt="Website" src="https://img.shields.io/website?url=https://portofolio-iz.netlify.app/">
+  <a href="#/">
+    <img alt="Website" src="#">
   </a>
-  <a href="https://github.com/faiz-hidayat?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/faiz-hidayat?style=flat&logo=github">
+  <a href="https://github.com/Kaguai10?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kaguai10?style=flat&logo=github">
   </a>
 </p>
   <h1 style="color: #00FF00;">💻 Welcome to Rif_Kaguai10</h1>
