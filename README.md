@@ -72,16 +72,16 @@
       <br>John The Ripper
     </td>
     <td align="center" width="96">
+      <a href="#fKaguai">
+        <img src="https://www.aperisolve.com/static/images/watermelon.svg" width="48" height="48" alt="Aperi'Solve" />
+      </a>
+      <br>Aperi'solve
+    </td>
+    <td align="center" width="96">
       <a href="#kaguai">
         <img src="https://ctftime.org/media/team/IDA.png" width="48" height="48" alt="Ghidra" />
       </a>
       <br>IDA
-    </td>
-    <td align="center" width="96">
-      <a href="#fKaguai">
-        <img src="https://ghidra-sre.org/images/GHIDRA_1.png" width="48" height="48" alt="Ghidra" />
-      </a>
-      <br>Ghidra
     </td>
     <td align="center" width="96">
       <a href="#Kaguai">
@@ -91,9 +91,9 @@
     </td>
     <td align="center" width="96">
       <a href="#Kaguai">
-        <img src="https://camo.githubusercontent.com/0899d46f6fbc9cbfaa378de3bc94c035e8189a3f6cd791581e2250969d223781/68747470733a2f2f696d6167652e6962622e636f2f637075596f412f7873737472696b652d6c6f676f2e706e67" width="48" height="48" alt="XSStrike" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLeLNcwondjh_xYxeZWMKJUdqrsZy668olOg&s" width="48" height="48" alt="CyberChef" />
       </a>
-      <br>XSStrike
+      <br>Cyberchef
     </td>
 </tr>
 </table>
