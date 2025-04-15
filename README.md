@@ -20,7 +20,7 @@
   <img src="https://media.tenor.com/images/1c1e1c1e1c1e1c1e/tenor.gif" width="100%">
 </p>
 
-<h2 align="center" style="color: #00FF00;">🦾 Code is My Weapon</h2>
+<h2 align="center" style="color: #ffffff;">💲 cat /home/kaguai/flag.txt</h2>
 <p align="center" style="color: #00FF00; font-style: italic;">
   "In the realm of code, we are all hackers, rewriting the rules of reality."
 </p>
