@@ -13,7 +13,6 @@
   </a>
 </p>
   <h1 style="color: #00FF00;">👨‍💻 Whoami</h1>
-  <p style="color: #FFFFFF;">Where the code flows like shadows...</p>
 </div>
 
 <p align="center">
