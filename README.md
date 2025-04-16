@@ -1,3 +1,6 @@
+<head>
+   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=2ba6d0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;Welcome+to+Rif_Kaguai10+%E2%9C%A9" width="75%" />
   <img src="https://github.com/Kaguai10/Kaguai10/blob/main/banner.png" width="75%">
@@ -13,11 +16,21 @@
   </a>
 </p>
   <h1 style="color: #00FF00;">👨‍💻 Whoami</h1>
-</div>
-
-<p align="center">
-  <img src="https://media.tenor.com/images/1c1e1c1e1c1e1c1e/tenor.gif" width="100%">
+  <a href="#kaguai10-title">
+  <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=30% align="right" />
+</a>
+<p align="left">
+# 👋 Hi, I'm ArifNur!</br>
+👨🏻‍💼 I am an expert in networking and cybersecurity<br/>
+🖋️ I am also used to designing, photography and editing videos<br/>
+🎯 now I am studying Cloud Computing and Programming<br/>
+👨‍🎓 I am currently studying at a vocational high school majoring in TKJ<br/>
+🤝 I also participate in organizations, namely OSIS and ROHIS<br/>
 </p>
+ <a href="https://open.spotify.com/user/31wenocunyyi32lwbdga4qmemecu?si=MSqnUHCTSYOBcZn8jsy19w">
+  <img src="#?background_color=0d1117&border_color=ffffff" width="50%" align="left">
+</a>
+</div>
 
 <h2 align="center" style="color: #ffffff;">💲 cat /home/kaguai/flag.txt</h2>
 <p align="center" style="color: #00FF00; font-style: italic;">
