@@ -17,7 +17,7 @@
 </p>
   <h1 style="color: #00FF00;">👨‍💻 Whoami</h1>
   <a href="#kaguai10-title">
-  <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=31% align="right" />
+  <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=28% align="right" />
 </a>
 <p align="left">
 # 👋 Hi, I'm ArifNur!</br>
