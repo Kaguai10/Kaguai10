@@ -102,7 +102,9 @@
 
 <h2 align="center" style="color: #00FF00;">⚡️ Connect with Me</h2>
 <p align="center" style="color: #FFFFFF;">
-  <a href="https://twitter.com/yourusername" target="_blank">Twitter</a> | 
+  <a href="https://twitter.com/yourusername" target="_blank">
+     <img src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" alt="Instagram" width="30">
+  </a> | 
   <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a> | 
   <a href="https://yourwebsite.com" target="_blank">Website</a>
 </p>
