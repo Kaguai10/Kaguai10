@@ -17,7 +17,7 @@
 </p>
   <h1 style="color: #00FF00;">👨‍💻 Whoami</h1>
   <a href="#kaguai10-title">
-  <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=15% align="right" />
+  <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=31.5% align="right" />
 </a>
 <p align="left">
 # 👋 Hi, I'm ArifNur!</br>
@@ -28,10 +28,9 @@
 🤝 I also participate in organizations, namely OSIS and ROHIS<br/>
 </p>
  <a href="https://open.spotify.com/user/31wenocunyyi32lwbdga4qmemecu?si=MSqnUHCTSYOBcZn8jsy19w">
-  <img src="#?background_color=0d1117&border_color=ffffff" width="50%" align="left">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d4nxkgnkfygqxkp52ya4fuarnm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="42%" align="center" margin-left=0.2rem>
 </a>
 </div>
-
 <h2 align="center" style="color: #ffffff;">💲 cat /home/kaguai/flag.txt</h2>
 <p align="center" style="color: #00FF00; font-style: italic;">
   "In the realm of code, we are all hackers, rewriting the rules of reality."
