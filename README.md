@@ -34,7 +34,7 @@
 <div align="center">
 <h2 align="center" style="color: #ffffff;">💲 cat /home/kaguai/flag.txt</h2>
 
-`"In the realm of code, we are all hackers, rewriting the rules of reality."`
+`"In The Realm Of Code, We Are All Hackers, Rewriting The Rules Of Reality."`
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You’re+Happy,+I’m+Happy+Too">
