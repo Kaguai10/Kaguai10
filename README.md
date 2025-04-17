@@ -116,7 +116,7 @@
       <br>Kali Linux
   </td>
   <td align="center" width="96">
-      <a href="https://www.kali.org/">
+      <a href="https://www.debian.org/index.id.html">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2s0lY4hT2n8hGBU_RrRTelYR4NAWZTwK2d-eNArb2OQKBGSwxU6UqUctWuJnlQdb5g4&usqp=CAU" width="48" height="48" alt="Debian" />
       </a>
       <br>debian 11
