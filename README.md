@@ -102,13 +102,15 @@
 
 <h2 align="center" style="color: #00FF00;">⚡️ Connect with Me</h2>
 <p align="center" style="color: #FFFFFF;">
-  <a href="https://twitter.com/yourusername" target="_blank">
-     <img src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" alt="Instagram" width="30">
-  </a> 
-  <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn
-     <img src=#>
+  <a href="https://tinyurl.com/Kaguai10instagram" target="_blank">
+     <img src="https://www.transparentpng.com/thumb/logo-instagram/YfpFOL-logo-instagram-free-transparent.png" alt="Instagram" width="35"  style="margin-right:15px">
   </a>
-  <a href="https://yourwebsite.com" target="_blank">Website
-     <img src=#>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://tinyurl.com/Kaguai10Channel" target="_blank">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" width="38">
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="https://tinyurl.com/Kaguai10Youtube" target="_blank">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="youtube" width="45">
   </a>
 </p>
