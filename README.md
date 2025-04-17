@@ -19,14 +19,12 @@
   <a href="#kaguai10-title">
   <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=28% align="right" />
 </a>
-<p align="left" style="font-size: 1.2rem;">
-👋 Hi, I'm <b>ArifNur</b>!<br/>
-👨🏻‍💼 I am an expert in networking and cybersecurity<br/>
-🖋️ I am also used to designing, photography and editing videos<br/>
-🎯 now I am studying Cloud Computing and Programming<br/>
-👨‍🎓 I am currently studying at a vocational high school majoring in TKJ<br/>
-🤝 I also participate in organizations, namely OSIS and ROHIS<br/>
-</p>
+<div align="left">
+👋 Hi, I'm <b>ArifNur</b>!<br/> 👨🏻‍💼 I am an expert in networking and cybersecurity<br/> 🖋️ I am also used to designing, photography and editing videos<br/> 🎯 now I am studying Cloud Computing and Programming<br/> 👨‍🎓 I am currently studying at a vocational high school majoring in TKJ<br/> 🤝 I also participate in organizations, namely OSIS and ROHIS<br/>
+</div>
+
+
+   
  <a href="https://open.spotify.com/user/31wenocunyyi32lwbdga4qmemecu?si=MSqnUHCTSYOBcZn8jsy19w">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d4nxkgnkfygqxkp52ya4fuarnm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="42%" align="center" margin-left=0.2rem>
 </a>
