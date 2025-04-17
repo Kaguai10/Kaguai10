@@ -131,7 +131,7 @@
 
 
 <details> 
-<summary>👇 My Badges</summary>
+<summary>👇 My Markdown-Badges</summary>
 <hr>
 
 </details>
