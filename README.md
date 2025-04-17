@@ -121,6 +121,12 @@
       </a>
       <br>debian 11
   </td>
+  <td align="center" width="96">
+     <a href="https://ubuntu.com/">
+        <img src="https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_400x400.jpg" width="48" alt="Ubuntu" />
+     </a>
+      <br>Ubuntu
+  </td>
   </tr>
 </table>
 
