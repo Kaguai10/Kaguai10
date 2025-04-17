@@ -33,7 +33,7 @@
 </div>
 <h2 align="center" style="color: #ffffff;">💲 cat /home/kaguai/flag.txt</h2>
 <p align="center" style="color: #00FF00; font-style: italic;">
-  "In the realm of code, we are all hackers, rewriting the rules of reality."
+ `"In the realm of code, we are all hackers, rewriting the rules of reality."`
 </p>
 
 <div align="center">
@@ -129,6 +129,13 @@
   </td>
   </tr>
 </table>
+
+
+<details> 
+<summary>👇 My Badges</summary>
+<hr>
+
+</details>
 
 <h2 align="center" style="color: #00FF00;">⚡️ Connect with Me</h2>
 <p align="center" style="color: #FFFFFF;">
