@@ -31,11 +31,11 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d4nxkgnkfygqxkp52ya4fuarnm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="42%" align="center" margin-left=0.2rem>
 </a>
 </div>
+<div align="center">
 <h2 align="center" style="color: #ffffff;">💲 cat /home/kaguai/flag.txt</h2>
-<p align="center" style="color: #00FF00; font-style: italic;">
- `"In the realm of code, we are all hackers, rewriting the rules of reality."`
-</p>
 
+`"In the realm of code, we are all hackers, rewriting the rules of reality."`
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You’re+Happy,+I’m+Happy+Too">
 </div>
