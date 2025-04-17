@@ -138,6 +138,33 @@
    <a href="https://drive.google.com/drive/folders/1IblHQtSr6lUvZv1nhx8Ig4-qA7Q4bqrK">
     <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="G-Drive" />
    </a>
+   <a href="https://open.spotify.com/user/31wenocunyyi32lwbdga4qmemecu?si=MSqnUHCTSYOBcZn8jsy19w">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="G-Drive" />
+   </a>
+   <a href="arifkaguai10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="G-Drive" />
+   </a>
+   <a href="https://www.linkedin.com/in/arifnur-muhammad-heri/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="G-Drive" />
+   </a>
+   <a href="https://t.me/+6285885168794">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="G-Drive" />
+   </a>
+   <a href="https://tinyurl.com/Kaguai10Channel">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="G-Drive" />
+   </a>
+   <a href="https://tinyurl.com/Kaguai10Youtube">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="G-Drive" />
+   </a>
+   <a href="https://github.com/Kaguai10">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="G-Drive" />
+   </a>
+   <a href="https://medium.com/@arifkaguai10">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="G-Drive" />
+   </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="G-Drive" />
+   </a>
 <hr>
 
 </details>
