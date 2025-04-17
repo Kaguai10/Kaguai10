@@ -100,6 +100,30 @@
  </tr>
 </table>
 
+<h3>Operating System</h3>
+<table>
+  <tr>
+  <td align="center" width="96">
+      <a href="https://www.microsoft.com/id-id">
+        <img src="https://logowik.com/content/uploads/images/windows-116906.jpg" width="48" height="48" alt="Windows" />
+      </a>
+      <br>Windows 11
+  </td>
+  <td align="center" width="96">
+      <a href="https://www.kali.org/">
+        <img src="https://gimgs2.nohat.cc/thumb/f/350/kali-linux-logo-vector--comseeklogo434141.jpg" width="48" height="48" alt="Kali Linux" />
+      </a>
+      <br>Kali Linux
+  </td>
+  <td align="center" width="96">
+      <a href="https://www.kali.org/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE2s0lY4hT2n8hGBU_RrRTelYR4NAWZTwK2d-eNArb2OQKBGSwxU6UqUctWuJnlQdb5g4&usqp=CAU" width="48" height="48" alt="Debian" />
+      </a>
+      <br>debian 11
+  </td>
+  </tr>
+</table>
+
 <h2 align="center" style="color: #00FF00;">⚡️ Connect with Me</h2>
 <p align="center" style="color: #FFFFFF;">
   <a href="https://tinyurl.com/Kaguai10instagram" target="_blank">
