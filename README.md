@@ -39,7 +39,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You’re+Happy,+I’m+Happy+Too">
 </div>
-
 <h3>Security & Pentesting Tools</h3>
 <table>
   <tr>
