@@ -1,5 +1,5 @@
 <head>
-   <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+   
 </head>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=2ba6d0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;Welcome+to+Rif_Kaguai10+%E2%9C%A9" width="75%" />
@@ -19,8 +19,8 @@
   <a href="#kaguai10-title">
   <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=28% align="right" />
 </a>
-<p align="left">
-# 👋 Hi, I'm ArifNur!</br>
+<p align="left" style="font-size: 1.2rem;">
+👋 Hi, I'm <b>ArifNur</b>!<br/>
 👨🏻‍💼 I am an expert in networking and cybersecurity<br/>
 🖋️ I am also used to designing, photography and editing videos<br/>
 🎯 now I am studying Cloud Computing and Programming<br/>
