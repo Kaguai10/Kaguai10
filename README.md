@@ -14,6 +14,8 @@
   <a href="https://github.com/Kaguai10?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kaguai10?style=flat&logo=github">
   </a>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
+   
 </p>
   <h1 style="color: #00FF00;">👨‍💻 Whoami</h1>
   <a href="#kaguai10-title">
