@@ -35,7 +35,7 @@
 `"In The Realm Of Code, We Are All Hackers, Rewriting The Rules Of Reality."`
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You’re+Happy,+I’m+Happy+Too">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You’re+Happy,+I’m+Happy+Too;FLAG{4ku_54y4ng_kamu_101023}">
 </div>
 <h3>Security & Pentesting Tools</h3>
 <table>
