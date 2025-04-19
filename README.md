@@ -23,7 +23,7 @@
 </a>
 <div>
 
-><strong>👋 Hi, I'm <b>ArifNur</b>!<br/> 👨🏻‍💼 I am an expert in networking and cybersecurity<br/> 🖋️ I am also used to designing, photography and editing videos<br/> 🎯 now I am studying Cloud Computing and Programming<br/> 👨‍🎓 I am currently studying at a vocational high school majoring in TKJ<br/> 🤝 I also participate in organizations, namely OSIS and ROHIS<br/></strong>
+><strong>👋 Hi, I'm <b>ArifNur</b>!<br/> 👨🏻‍💼 I am an expert in networking and cybersecurity<br/> 🖋️ I am also used to designing, photography and editing videos<br/> 🎯 now I am studying Cloud Computing and Programming<br/> 👨‍🎓 I'm a vocational high school student majoring in TKJ<br/> 🤝 I also participate in organizations, namely OSIS and ROHIS<br/></strong>
    
 <a href="https://open.spotify.com/user/31wenocunyyi32lwbdga4qmemecu?si=MSqnUHCTSYOBcZn8jsy19w">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d4nxkgnkfygqxkp52ya4fuarnm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="42%" align="center" margin-left=0.2rem>
