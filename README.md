@@ -19,7 +19,7 @@
 </p>
   <h1 style="color: #00FF00;" align="center">👨‍💻 Whoami</h1>
   <a href="#kaguai10-title">
-  <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=31% align="right">
+  <img src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif" alt=# width=29% align="right">
 </a>
 <div>
 
