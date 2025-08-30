@@ -48,13 +48,13 @@
    </td>
    <td align="center" width="96">
       <a href="https://www.wireshark.org/">
-        <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" width="48" height="48" alt="Wireshark" />
+        <img src="https://www.wireshark.org/favicon.ico" width="48" height="48" alt="Wireshark" />
       </a>
       <br>Wireshark
    </td>
    <td align="center" width="96">
       <a href="https://www.aperisolve.com/">
-        <img src="https://www.aperisolve.com/static/images/watermelon.svg" width="48" height="48" alt="Aperi'Solve" />
+        <img src="https://www.aperisolve.com/static/img/logo.svg" width="48" height="48" alt="Aperi'Solve" />
       </a>
       <br>Aperi'solve
    </td>
