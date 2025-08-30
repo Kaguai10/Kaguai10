@@ -84,7 +84,7 @@
    </td>
    <td align="center" width="96">
       <a href="https://nmap.org/">
-        <img src="https://cdn.brandfetch.io/idHnSFcYKj/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Nmap" />
+        <img src="https://nmap.org/images/sitelogo-2x.png" width="48" height="48" alt="Nmap" />
       </a>
       <br>Nmap
    </td>
