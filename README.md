@@ -3,7 +3,7 @@
 </head>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=2ba6d0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;Welcome+to+Rif_Kaguai10+%E2%9C%A9" width="75%" />
-  <img src="https://github.com/Kaguai10/Kaguai10/blob/main/banner.png" width="75%">
+  <img src="https://raw.githubusercontent.com/Kaguai10/Kaguai10/refs/heads/main/banner.png" width="75%">
   <p align="center">
   <a href=#> 
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
@@ -15,7 +15,8 @@
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kaguai10?style=flat&logo=github">
   </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-</div>   
+</div> 
+
 </p>
   <h1 style="color: #00FF00;" align="center">👨‍💻 Whoami</h1>
   <a href="#kaguai10-title">
