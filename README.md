@@ -97,6 +97,54 @@
  </tr>
 </table>
 
+<h3>Network Engineer</h3>
+<table>
+  <tr>
+  <td align="center" width="96">
+      <a href="https://www.netacad.com/cisco-packet-tracer">
+        <img src="https://download.logo.wine/logo/Cisco_Systems/Cisco_Systems-Logo.wine.png" width="48" alt="cisco" />
+      </a>
+      <br>Cisco Packet Tracer
+  </td>
+  <td align="center" width="96">
+      <a href="https://www.virtualbox.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/960px-VirtualBox_2024_Logo.svg.png?_=20240917170005" width="48" alt="virtual box" />
+      </a>
+      <br>Virtual Box
+  </td>
+  <td align="center" width="96">
+      <a href="https://mikrotik.com/download/winboxl">
+        <img src="https://imgproxy.flathub.org/insecure/dpr:1/f:webp/q:100/rs:fit:128:128/aHR0cHM6Ly9kbC5mbGF0aHViLm9yZy9tZWRpYS9jb20vbWlrcm90aWsvV2luQm94L2VjMTYwZmFhNWQwZWJhZjc5NWY5NzJlZWUyNTU1Y2M4L2ljb25zLzEyOHgxMjgvY29tLm1pa3JvdGlrLldpbkJveC5wbmc" width="48" alt="winbox" />
+      </a>
+      <br>WinBox
+  </td>
+  <td align="center" width="96">
+     <a href="https://www.vmware.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/250px-Vmware_workstation_16_icon.svg.png" width="48" alt="vmware" />
+     </a>
+      <br>VMware
+  </td>
+  <td align="center" width="96">
+     <a href="https://putty.org/index.html">
+        <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHM0OYfiFeMI2p9MWie0CvL99U4GA1gf6_kayTt_kBblFwHwo8BW8JXlqfnYxKPmmBX3wW_rzBq9YumxvbMOMAyr3uQ6bVImTun38W2Zws1FO1dpksrhcuAPKvyb9hRMlj2R0Y2vGwDv6_UEuqyr5QCY-&format=source" width="48" alt="putty" />
+     </a>
+      <br>puTTY
+  </td>
+  <td align="center" width="96">
+     <a href="https://www.zoiper.com/">
+        <img src="https://avatars.githubusercontent.com/u/12186179?v=4" width="48" alt="zoiper" />
+     </a>
+      <br>Zoiper
+  </td>
+  <td align="center" width="96">
+     <a href="https://asterisk.id/t/briker-version-2-0-4-released/298">
+        <img src="https://dimas347.wordpress.com/wp-content/uploads/2009/06/briker_logo_thumb.jpg?w=250&h=200" width="48" alt="Briker" />
+     </a>
+      <br>Briker
+  </td>
+  </tr>
+</table>
+
 <h3>Operating System</h3>
 <table>
   <tr>
