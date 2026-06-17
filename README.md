@@ -3,16 +3,16 @@
 </head>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=2ba6d0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;Welcome+to+Rif_Kaguai10+%E2%9C%A9" width="75%" />
-  <img src="https://raw.githubusercontent.com/Kaguai10/Kaguai10/refs/heads/main/banner.png" width="75%">
+  <img src="https://raw.githubusercontent.com/Kaguai10/Kaguai10/main/banner.png" width="75%" alt="Kaguai10 banner">
   <p align="center">
-  <a href=#> 
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <a href="https://awesome.re"> 
+    <img src="https://awesome.re/badge.svg" alt="Awesome Badge"/>
   </a>   
   <a href="https://github.com/Kaguai10/Kaguai10">
     <img src="https://komarev.com/ghpvc/?username=Kaguai10" alt="page views" />
   </a>
   <a href="https://github.com/Kaguai10?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Kaguai10?style=flat&logo=github">
+    <img alt="GitHub followers: 8" src="https://img.shields.io/badge/followers-8-181717?style=flat&logo=github&logoColor=white">
   </a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 </div> 
@@ -36,7 +36,7 @@
 `"In The Realm Of Code, We Are All Hackers, Rewriting The Rules Of Reality."`
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You’re+Happy,+I’m+Happy+Too;FLAG{th1s_15_sECr3ts5s}">
+  <img src="https://readme-typing-svg.demolab.com?size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Reveal+Truth,+Stop+Lies;Join+to+Find+Out;make+memories+with+me;You%E2%80%99re+Happy,+I%E2%80%99m+Happy+Too;FLAG%7Bth1s_15_sECr3ts5s%7D">
 </div>
 <h3>Security & Pentesting Tools</h3>
 <table>
