@@ -54,10 +54,10 @@
       <br>Wireshark
    </td>
    <td align="center" width="96">
-      <a href="https://www.aperisolve.com/">
-        <img src="https://www.aperisolve.com/static/img/logo.svg" width="48" height="48" alt="Aperi'Solve" />
+      <a href="https://wazuh.com/">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6I6AR0Npm47KYh4D_VyLPMw0UME-muPYEqVUeAhhvynuX0tr2kI3kbAU&s=10" width="48" height="48" alt="Aperi'Solve" />
       </a>
-      <br>Aperi'solve
+      <br>Wazuh
    </td>
    <td align="center" width="96">
       <a href="https://gchq.github.io/CyberChef/">
@@ -166,6 +166,12 @@
         <img src="https://www.debian.org/Pics/debian-logo-1024x576.png" width="48" alt="Debian" />
       </a>
       <br>debian 11
+  </td>
+  <td align="center" width="96">
+     <a href="https://ubuntu.com/">
+        <img src="https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_400x400.jpg" width="48" alt="Ubuntu" />
+     </a>
+      <br>Ubuntu
   </td>
   <td align="center" width="96">
      <a href="https://ubuntu.com/">
