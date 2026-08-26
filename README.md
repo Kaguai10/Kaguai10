@@ -24,7 +24,7 @@
 </a>
 <div>
 
-><strong>👋 Hi, I'm <b>Arif Nur Muhammad Heri</b>!<br/>💻 Passionate about Cyber Security, Networking, and System Administration<br/>🛡️ Love exploring CTFs, Web Exploitation, Digital Forensics, and Cryptography<br/>🎓 Fresh Graduate from SMKN 22 Jakarta majoring in TKJ<br/>🤝 Active in communities and organizations such as Infinity Cyber<br/>🚀 “Keep Learning, Keep Securing.”</strong>
+><strong>👋 Hi, I'm <b>Arif Nur Muhammad Heri.</b>!<br/>💻 Passionate about Cyber Security, Networking, and System Administration.<br/>🛡️ Love exploring CTFs, Web Exploitation, Digital Forensics, and Cryptography.<br/>🎓 Fresh Graduate from SMKN 22 Jakarta majoring in TKJ.<br/>🤝 Currently working as a Security Engineer at Defenxor.<br/>🚀 “Keep Learning, Keep Securing.”</strong>
    
 <a href="https://open.spotify.com/user/31wenocunyyi32lwbdga4qmemecu?si=MSqnUHCTSYOBcZn8jsy19w">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31d4nxkgnkfygqxkp52ya4fuarnm&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" width="42%" align="center" margin-left=0.2rem>
